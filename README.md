@@ -1,2 +1,2 @@
 # freecodecamp-python
-My labs, workshops, projects and notes from freeCodeCamp Python certification curriculum
+My labs, workshops, projects and notes from freeCodeCamp's Python certification curriculum
